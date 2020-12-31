@@ -13,5 +13,5 @@ To assess the effect of the SIG program, we wanted to observe the percentage cha
 ## Method: difference-in-differences (diff-in-diff)
 The method we used to estimate the effects of the SIG programs was difference-in-differences (diff-in-diff). The initial difference between the treatment and control group was taken into account. Because the SIG program only awarded the schools that ranked as low performing, the average proficiency rate in the treatment group was substantially lower than the ones in the control group— hence we did not compare the differences of proficiency rate between treatment and control group. What we wanted to compare were the changes in the treatment group over time to changes in the control group over time. 
 
-### See the [PDF file](toronto_income_gap.pdf) for R code, data visualization and full analysis
+### See the [PDF file](SIG.pdf) for R code, data visualization and full analysis
 
