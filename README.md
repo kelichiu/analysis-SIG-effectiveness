@@ -1,5 +1,5 @@
 # The 3-billion School Improvement Grants (SIG) program has no significant effects on student outcome
-In collaboration with [diegoarmaca](https://github.com/diegoarmaca) and Sharon Allman
+In collaboration with [Diego Mamanche Castellanos](https://github.com/diegoarmaca) and [Sharon Allman](https://github.com/seallman)
 
 ## Summary of Findings
 The objective of this analysis was to examine if there was a relationship between a school’s participation in a School Improvement Grant program and an increase in that school’s students’ achievement.  Using linear regression models, we failed to reject the null hypothesis that the SIG programs had no statistically significant effect on students’ performance over time
